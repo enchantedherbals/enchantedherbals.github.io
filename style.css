@@ -128,7 +128,7 @@ a:hover {
 		display: none;
 	}
 }
-@media screen and (max-device-width: 430px) {
+@media screen and (max-width: 430px) {
 	.content h1 {
 		font-size: 300%;
 	}
@@ -142,7 +142,7 @@ a:hover {
 		width: 90%;
 	}
 }
-@media screen and (max-device-width: 400px) {
+@media screen and (max-width: 400px) {
 	.content h1 {
 		font-size: 320%;
 	}
@@ -156,7 +156,7 @@ a:hover {
 		width: 90%;
 	}
 } 
-@media screen and (max-device-width: 350px) {
+@media screen and (max-width: 350px) {
 	.content h1 {
 		font-size: 280%;
 	}
