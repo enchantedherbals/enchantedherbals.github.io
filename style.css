@@ -128,7 +128,7 @@ a:hover {
 		display: none;
 	}
 }
-@media screen and (max-width: 430px) {
+@media frameset and (max-width: 430px) {
 	.content h1 {
 		font-size: 300%;
 	}
