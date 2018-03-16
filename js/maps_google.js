@@ -75,7 +75,7 @@ function initMap() {
 		windowInfo.open(map, markerKona);
 	});
 	markerEmporium.addListener('click', function() {
-		windowInfo.setContent('<div class="GMtitle">Puna Gallery and Gift Emporium</div><div class="GMtext"><br>Everyday: 10am-6pm<br>Closed on Wednesdays</div>');
+		windowInfo.setContent('<div class="GMtitle">Puna Gallery and Gift Emporium</div><div class="GMtext"><br>Open daily: 10am-6pm<br>Closed on Wednesdays</div>');
 		windowInfo.open(map, markerEmporium);
 	});
 }
