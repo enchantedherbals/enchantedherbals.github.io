@@ -68,7 +68,7 @@ ul {
 	align-items: center;
 	padding-left: 0;
 	margin-left: 0;
-	margin-top: 50;
+	margin-block-start: 2em;
 }
 li {
 	position: relative;
