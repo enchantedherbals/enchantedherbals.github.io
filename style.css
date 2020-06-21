@@ -13,7 +13,7 @@ html, body {
 	height: 100%;
 	width: 100%;
 	margin: 0;
-	background: black url(https://static.pexels.com/photos/37608/night-northern-lights-nature-lights-37608.jpeg) no-repeat 50% 50%;
+	background: white;
 	display: table;
 	top: 0;
 	background-size: cover;
