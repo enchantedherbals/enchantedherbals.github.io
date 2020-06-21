@@ -100,11 +100,11 @@ li {
 }
 a {
 	text-decoration: none;
-	color: #add8a3;
+	color: #267b44;
 }
 a:hover {
 	transition: all 0.5s ease;
-	color: #475843;
+	color: #f57ca0;
 }
 #map {
 	margin: 0 auto;
